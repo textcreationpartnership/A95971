@@ -1,0 +1,172 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>His Maiesties concessions to the bill of abolition of arch-bishops and bishops, &amp;c. stated and considered. By Richard Vines, one of the divines that attended the Commissioners of Parliament.</title>
+            <author>Vines, Richard, 1600?-1656.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1660</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 12 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A95971</idno>
+            <idno type="STC">Wing V556</idno>
+            <idno type="STC">Thomason E1081_11</idno>
+            <idno type="STC">ESTC R203897</idno>
+            <idno type="EEBO-CITATION">99863680</idno>
+            <idno type="PROQUEST">99863680</idno>
+            <idno type="VID">169353</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A95971)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 169353)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 161:E1081[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>His Maiesties concessions to the bill of abolition of arch-bishops and bishops, &amp;c. stated and considered. By Richard Vines, one of the divines that attended the Commissioners of Parliament.</title>
+                  <author>Vines, Richard, 1600?-1656.</author>
+               </titleStmt>
+               <extent>8 p.   </extent>
+               <publicationStmt>
+                  <publisher>[s.n.],</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>printed in the year, 1660.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Charles --  I, --  King of England, 1600-1649.</term>
+               <term>Church of England --  Government --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-12</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-01</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2012-01</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:169353:1" rendition="simple:additions"/>
+            <p> HIS MAIESTIES Conceſſions TO THE BILL of ABOLITION OF <hi>Arch-Biſhops</hi> and <hi>Biſhops,</hi> &amp;c. STATED and CONSIDERED.</p>
+            <p>By <hi>Richard Vines,</hi> one of the Divines that at<g ref="char:EOLhyphen"/>tended the Commiſſioners of Parliament.</p>
+            <p>
+               <hi>LONDON,</hi> Printed in the year, 1660.</p>
+            <pb facs="tcp:169353:2"/>
+         </div>
+      </front>
+      <body>
+         <div type="preface">
+            <pb n="3" facs="tcp:169353:2"/>
+            <opener>
+               <salute>SIR,</salute>
+            </opener>
+            <p>
+               <hi>The Law of friendſhip oblidgeth me to anſwer your deſire, by affording to you my ſenſe touching his Majesty his Conceſſions towards the removal of Epiſcopal Government, or the Bil of Abolition.</hi>
+            </p>
+         </div>
+         <div type="pamphlet">
+            <p>His Majeſties Conceſſions to the Bill of Abolition of Arch-biſhops, Biſhops, <hi>&amp;c. Stated</hi> &amp; <hi>Conſidered.</hi>
+            </p>
+            <p>
+               <seg rend="decorInit">H</seg>IS Majeſty hath fully and expreſly conſent<g ref="char:EOLhyphen"/>ed to the Bill of Abolition and removal of the whole Hierarchy contained in the Bill, excepting that part thereof which relates to Biſhops; whoſe Juriſdictive power (as he calls it) he hath alſo abrogat<g ref="char:EOLhyphen"/>ed finally and for ever, except the two Houſes ſhall otherwiſe determine, and hath reſerved to them ſome power in Ordination only, wherein he would have them to be (as we uſe to ſay,) of the <hi>Quorum,</hi> by the uſe or power of a negative voice in that action, but withal doth actually ſuſpend them from
+<pb n="4" facs="tcp:169353:3"/> the exerciſe of all manner of power of Ordination for three years; during which time he hath obliged himſelf to make no other, no more Biſhops, but refers himſelf to further de<g ref="char:EOLhyphen"/>bate and conſultation of Divines, what ſhall obtain in the Church of <hi>England</hi> after the expiration of that term, ac<g ref="char:EOLhyphen"/>cording as himſelf, and the two Houſes ſhall determine up<g ref="char:EOLhyphen"/>on their advice; which may probably upon his Majeſties in<g ref="char:EOLhyphen"/>formation more throughly in the point, iſſue to a total abo<g ref="char:EOLhyphen"/>lition of both the name, and all power of Biſhops. But if then his Majeſty and the Houſes ſhall not agree, the Biſhop ſhall have power of Ordination with the councel and con<g ref="char:EOLhyphen"/>ſent of the Presbyters, or the major part of them conjoyned or co-operating with him. Which Presbyters are not to be nominated or appointed by his Majeſty alone, much leſs arbitrarily aſſociated by the Biſhop himſelf, but appointed and authoriſed by his Majeſty and the two Houſes, and not otherwiſe.</p>
+            <p>This being the clear ſtate (as far as I underſtand) of his Majeſty his conceſſion, except I be miſtaken in the length of that word <hi>Cooperate,</hi> which is not his Majeſties expreſſion. I ſhall offer to you theſe two conſiderations upon it.</p>
+            <div type="part">
+               <head>
+                  <hi>CONSID.</hi> I.</head>
+               <p>Firſt, Whether the Biſhops of <hi>England</hi> (and to whom only the bill extends) be not hereby in effect aboliſhed, not only as to their <hi>poſſe,</hi> but alſo as to their <hi>eſſe;</hi> for,</p>
+               <p n="1">1. There remains no viſible way of making any Biſhop hereafter, becauſe the Deans and Chapters, who were by the lawes and uſage of this Kingdom to e<g ref="char:EOLhyphen"/>lect the Biſhop recommended to them by the Kings <hi>Conge de liere,</hi> are utterly taken away, ſo as there can be no proceeding to an Ordination of them, and if the book or form of conſecration be together with the Book of Common Prayer alſo aboliſht, I cannot ſee but that the Biſhops are aboliſht alſo, and cannot be made without ſome new way of conſtitution which reſts in the power of the Parliament.</p>
+               <p n="2">
+                  <pb n="5" facs="tcp:169353:3"/> 2. The Biſhops that now are, cannot after three years ordain, except the Houſes agree to appoint Presby<g ref="char:EOLhyphen"/>ters to joyn with them in that action, which if the Houſes ſhall not do, the Biſhops power is ſtill under ſuſpenſion; and if the Presbyterial Government and Ordination were but granted indefinitely, as it is for three years, I do not ſee but it would reſt in the power of the Houſes, whether the Biſhop ſhould ever ordain or no, and ſo in effect be vacated, being limit<g ref="char:EOLhyphen"/>ed to a concurrence of Preſbyters which are not found.</p>
+               <p n="3">3. His Majeſty in this Conceſſion ſeems to me, (which I ſpeak under his Majeſties favour) to have gone quite beſide his own level; for in his Papers given to the Divines at <hi>Newport,</hi> He cuts out the Epiſcopal office by the pattern of the Apoſtles, and of <hi>Timothy</hi> and <hi>Titus,</hi> whoſe Epiſcopal office (as he calls it) did not conſiſt only in a concurrence with a major part of Presbyters in Ordination, or a negative voice to ſuch a major part; nor do the Scriptures by his Ma<g ref="char:EOLhyphen"/>jeſty alledged, prove them to have bin Biſhops in this ſenſe and latitude only, but the primitive Biſhops of the ſecond, and haply ſome of the firſt century after Chriſt, were rather of this model, being of the <hi>Quorum</hi> in Ordination; which primitive Biſhops, (as the Divines ſay in their anſwer) might poſſibly be, and yet the Biſhops of <hi>England</hi> be aboliſht: and ſo it appears, that the Biſhops in the Bill preſented to his Majeſty, are by this Conceſſion of his quite altered and caſt in a new mould; which if his Majeſty would pleaſe to make as a new tendry to his Houſes of Parliament, and expreſly remove the old, the rub would be in a manner quite taken out of the way, which remains in the opinion of many, be<g ref="char:EOLhyphen"/>cauſe his Majeſty doth under the name of the preſent Biſhop capitulate before-hand for a new Epiſcopacy, which preſent Biſhop, if you ſhall not concur with me in opinion that he is in effect aboliſht by his Majeſties Conceſſion, yet cer<g ref="char:EOLhyphen"/>tainly he is reduced to ſo ſmall a hair as cannot be divided any more; for if the King ſhould go but one ſtep further, and take off that negative voice, which this Biſhop that is offer'd
+<pb n="6" facs="tcp:169353:4"/> is to have in Ordination, he would be then no more then one Presbyter, as he is very little more by this Conceſſion, in the <hi>affirmative part of acting,</hi> though he be more in the <hi>negative part</hi> of <hi>not acting,</hi> which negative voice of the Bi<g ref="char:EOLhyphen"/>ſhop would very ſeldome be uſed, or if it were, all reaſon is, that the Expectant or Candidate of the Miniſtry, ſhould have ſome relief of his <hi>gravamen,</hi> by appeal to the Pro<g ref="char:EOLhyphen"/>vincial meetings, or ſome other aſſembly which ſhould have power to determine the caſe; and then I cannot ſee but that even this negative voice is rendred in effect nothing, and ſo the Biſhops in effect aboliſhed; and if I was in a capacity to ſupplicate his Majeſty, I ſhould beſeech him to conſider that there is ſome difference between <hi>gravamen Spiritus</hi> and <hi>ligamen conſcientiae.</hi> For the affection he bears to that Government of Epiſcopacy, and the long uſage of it in the Church, may be <hi>heavy on his Spirit,</hi> and make the Abolition unpleaſing, which yet do not bind the conſci<g ref="char:EOLhyphen"/>ence, or make the doing it unlawfull to him.</p>
+            </div>
+            <div type="part">
+               <head>
+                  <hi>CONSID.</hi> II.</head>
+               <p>Secondly, It may be conſidered if the Biſhops be not in effect aboliſht in regard of this being,</p>
+               <p n="1">1. Whether it be any inconvenience, to ſet up in every County or Province a <hi>Presbytery</hi> for <hi>Ordination,</hi> (the juriſ<g ref="char:EOLhyphen"/>dictive part to go as is already eſtabliſht in Elderſhips, Claſ<g ref="char:EOLhyphen"/>ſes and Synods) of the graveſt and moſt judicious Miniſters, both to give <hi>reputation</hi> to the ordination, and to prevent the miſ-adminiſtration thereof in the Claſſes, moſt of which in <hi>England</hi> may haply not conſiſt of a competent number of men ſo fit to exerciſe it; for I am of opinion, that Ordina<g ref="char:EOLhyphen"/>tion by Presbyters is good and lawfull, and that one of the <hi>Quorum</hi> concurring with them in Ordination, renders not the ſame evil or unlawfull; for if it did ſo, I ſee not how the <hi>Presbyters</hi> now in being, can well juſtifie their <hi>own.</hi>
+               </p>
+               <p n="2">2. This way propounded by his Majeſty might happily reduce all the Divines of <hi>England</hi> into a liking or accep<g ref="char:EOLhyphen"/>tance of the Government, and ſo take off that <hi>odium</hi> or prejudice which it lies under with them and others.</p>
+               <p n="3">
+                  <pb n="7" facs="tcp:169353:4"/> 3. The way of Ordination by Presbyters in every Pro<g ref="char:EOLhyphen"/>vince or County ſelected by Parliament <hi>prima vice,</hi> might prevent a great deal of influence which the now ſequeſtred Divines being reſtored to a capacity of Paſtoral charges, will have in the ſeveral Claſſes where they ſhall be ſeated.</p>
+               <p n="4">4. That the Presbyterians ought to take heed that the cauſe of the continuance of the Warre and all the miſe<g ref="char:EOLhyphen"/>ries of it be not laid at their door, and that for oppoſing a thing in it ſelf lawfull, but not at preſent to be gotten <hi>quite off,</hi> by reaſon of the Kings preſent unſatisfaction, and his deſire of time and means of better information.</p>
+               <p n="5">5. That ſuch Presbyterians as cannot find a <hi>Jus Divi<g ref="char:EOLhyphen"/>num</hi> for Ruling Elders acting in Ordination, do judge it as great a diſconformity to allow the Ruling Elder a power of co-operation and authority in ordaining Miniſters, as to al<g ref="char:EOLhyphen"/>low one to be of the <hi>Quorum,</hi> who is thereby no more then a <hi>Presbyter,</hi> nor hath the Keyes any more in his hand for that, then a <hi>Moderatour</hi> for the preſent time may have, for orders ſake.</p>
+               <p n="6">6. That the Covenant binding to extirpate Biſhops, if it be underſtood in <hi>ſenſu diviſo</hi> in that Article, and not (as many conceive) in <hi>ſenſu compoſito</hi> only, doth not oblge us to break the peace of all, if every thing be not to be had at firſt; and if the great and ancient Tree be to be felled down by agreement, ſhall the parties fight with one ano<g ref="char:EOLhyphen"/>ther, becauſe the one will fell it down chip by chipe; the other will tear it up at once by the roots? And there<g ref="char:EOLhyphen"/>fore I humbly pray the honourable Members of Parlia<g ref="char:EOLhyphen"/>ment, the warned Presbyterians, and (as they are called) In<g ref="char:EOLhyphen"/>dependents, to conſider of this <hi>Punctillio,</hi> as it is laid in the ballance againſt the loſs of all his Majeſty his other Con<g ref="char:EOLhyphen"/>ceſſions, and the fruits and conſequences of new diſtra<g ref="char:EOLhyphen"/>ctions and ſadder times; for (I ſpeak only in caſe that the King can be got no further) it ought to be well weigh<g ref="char:EOLhyphen"/>ed, whether this negative vote in Ordination, be ſuch a thing as may juſtly imbitter all our peace beſides. And if any ſhould ſay that out of this old root the old Epiſcopacy will grow again; I do not conceive that it is poſſible, be<g ref="char:EOLhyphen"/>ing
+<pb n="8" facs="tcp:169353:5"/> hoop'd about by the iron hoop of Laws; for the Primi<g ref="char:EOLhyphen"/>tive Epiſcopacy grew ſo faſt, becauſe the <hi>Pagan</hi> Princes looked not after that Government, which was but exer<g ref="char:EOLhyphen"/>ciſed over ſuch Voluntaries as put their necks under it, and Chriſtain Princes thought they ſhould allow it as much as it had under Heathens. But as for the reſurrection of it after it's dead, it cannot be, but by Parliament, and againſt an Act of Parliament, there is no fortification to be made; In fine, if I cannot prevail with you to accept leſs then you ask, I humbly beſeech the King to grant more then he yet offers, for the common peace ſake, which is to be pur<g ref="char:EOLhyphen"/>chaſed at any rate next the price of truth, and even ſome truths are to be abated, or ſorborn to be exerciſed for the preſent, for the common and publick peace.</p>
+               <closer>
+                  <salute>Vale</salute>
+                  <date>
+                     <hi>Novemb.</hi> 8.</date>
+               </closer>
+               <trailer>FINIS.</trailer>
+               <pb facs="tcp:169353:5"/>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
